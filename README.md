@@ -26,3 +26,29 @@
 |Google Calendar|![IMAGEN](https://github.com/kilianruiz/UF1_Evaluacion-inicial/blob/main/calendario1.png "check")
 |Google Meet|![IMAGEN](https://github.com/kilianruiz/UF1_Evaluacion-inicial/blob/main/pc1.png "check")
 |...|...|
+
+6. **Qué es HTML ?**
+
+- El lenguaje HTML es el código que se utiliza para estructurar y desplegar una página web y sus contenidos.
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <tittle>Document</title>
+</head>
+<body>
+
+</body>
+</html>
+
+7. **¿Qué es CSS?**
+
+- CSS es uno de los lenguajes mas importantes que se utilizan para ordenar las instrucciones referentes a la apariencia de un sitio y presentar los contenidos de una página de forma atractiva.
+
+8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+
+![IMAGEN](https://github.com/kilianruiz/UF1_Evaluacion-inicial/blob/main/imagenF.png "Imagen de flujo de trabajo")
