@@ -20,8 +20,9 @@
 
 |Aplicaciones|Visto|
 |---------------|---------------|
-|Google Docs|![IMAGEN](https://github.com/kilianruiz/UF1_Evaluacion-inicial/blob/main/istockphoto-1133442802-612x612.jpg "check")
-|Google Slides|
-|Google Sheets|
-|Google Meet|
-|...|
+|Google Docs|![IMAGEN](https://github.com/kilianruiz/UF1_Evaluacion-inicial/blob/main/check%201.png "check")
+|Google Slides|![IMAGEN](https://github.com/kilianruiz/UF1_Evaluacion-inicial/blob/main/check%201.png "check")
+|Google Sheets|![IMAGEN](https://github.com/kilianruiz/UF1_Evaluacion-inicial/blob/main/check%201.png "check")
+|Google Calendar|![IMAGEN](https://github.com/kilianruiz/UF1_Evaluacion-inicial/blob/main/calendario1.png "check")
+|Google Meet|![IMAGEN](https://github.com/kilianruiz/UF1_Evaluacion-inicial/blob/main/pc1.png "check")
+|...|...|
