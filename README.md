@@ -31,7 +31,7 @@
 
 - El lenguaje HTML es el código que se utiliza para estructurar y desplegar una página web y sus contenidos.
 
-``````
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -44,7 +44,7 @@
 
 </body>
 </html>
-``````
+```
 
 7. **¿Qué es CSS?**
 
