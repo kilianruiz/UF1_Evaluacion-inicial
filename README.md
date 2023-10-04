@@ -31,7 +31,7 @@
 
 - El lenguaje HTML es el código que se utiliza para estructurar y desplegar una página web y sus contenidos.
 
-
+``````
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -44,11 +44,12 @@
 
 </body>
 </html>
+``````
 
 7. **¿Qué es CSS?**
 
 - CSS es uno de los lenguajes mas importantes que se utilizan para ordenar las instrucciones referentes a la apariencia de un sitio y presentar los contenidos de una página de forma atractiva.
 
-8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+8. **Flujo de trabajo (navegador, petición, servidor y respuesta):**
 
 ![IMAGEN](https://github.com/kilianruiz/UF1_Evaluacion-inicial/blob/main/imagenF.png "Imagen de flujo de trabajo")
