@@ -16,7 +16,7 @@
 
 - Las herramientas ofimáticas son aquellos programas o aplicaciones que nos permiten manipular informáticamente la información con la que se trabaja de forma habitual en su oficina.
 
-5. [Herramientas de google](https://www.jivochat.es/blog/herramientas/mejores-herramientas-de-google.html "Enlace a las herramientas del cole")
+5. [Herramientas de google](https://www.jivochat.es/blog/herramientas/mejores-herramientas-de-google.html "Enlace a las herramientas de google")
 
 |Aplicaciones|Visto|
 |---------------|---------------|
